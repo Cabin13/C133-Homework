@@ -1,0 +1,16 @@
+#body {
+    background-image: url("1600w-drvq3zaYl2E.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.object {
+    background-color: #fbbbb4;
+    border-radius: 15px;
+    padding: 7px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    color: #9e7168;
+}
